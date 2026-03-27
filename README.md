@@ -23,7 +23,7 @@ This project is a Customer Relationship Management (CRM) application developed u
 
 * Salesforce CRM
 * Flow Builder
-* Apex (Trigger - optional)
+* Apex Trigger 
 
 ---
 
