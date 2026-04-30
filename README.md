@@ -36,12 +36,6 @@ This project is a Customer Relationship Management (CRM) application developed u
 
 ---
 
-##  Documentation
-
-* Project Report available in `/docs/report.pdf`
-* Screenshots available in `/docs/screenshots/`
-
----
 
 ##  Team Members
 
